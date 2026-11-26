@@ -1,4 +1,4 @@
-<?php declare(strict_types=1); ?>
+x`<?php declare(strict_types=1); ?>
 <div class="container py-5">
     <div class="row justify-content-center">
         <div class="col-md-6">
